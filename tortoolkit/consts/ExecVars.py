@@ -6,20 +6,20 @@ except:
         # Set true if its VPS
         IS_VPS = False
 
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "cc7024868cba8df36869160d7f893ef0"
+        API_ID = 6805787
+        BOT_TOKEN = "2086463870:AAFoUzVffAenlaAVt9-Ex0w4XKLyKzMo9F4"
+        BASE_URL_OF_BOT = "https://ttkmsg2.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [-1001631860824]
+        OWNER_ID = 1984923207
 
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = https://msgcreation.subuanish2.workers.dev/0:/
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 10
